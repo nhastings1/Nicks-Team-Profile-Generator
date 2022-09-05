@@ -40,6 +40,9 @@ A software engineering team-generator command line application. The application 
 
 ![Screenshot of load page](./media/Team%20Generated.png)
 
+## Walkthrough Video: 
+https://drive.google.com/file/d/1z1Ic0rhSHlneDiRKAyZwmPt5W-5ZrEaU/view?usp=sharing
+
 ---
 
 
